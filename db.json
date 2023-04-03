@@ -1,0 +1,34 @@
+{
+  "scooters": [
+    {
+      "id": 1,
+      "photo": "https://www.mvmt.com/on/demandware.static/-/Sites/default/dw2ed1ea78/images/bannerImages/ValentinesDesktop.jpg",
+      "title": "Xiaomi Mi Electric Scooter",
+      "battery": 5100,
+      "power": 250,
+      "speed": 20,
+      "reserve": 20,
+      "price": 16999
+    },
+    {
+      "id": 2,
+      "photo": "https://www.mvmt.com/on/demandware.static/-/Sites/default/dw2ed1ea78/images/bannerImages/ValentinesDesktop.jpg",
+      "title": "Xiaomi Mi Electric Scooter",
+      "battery": 5100,
+      "power": 250,
+      "speed": 20,
+      "reserve": 20,
+      "price": 16999
+    },
+    {
+      "id": 3,
+      "photo": "https://www.mvmt.com/on/demandware.static/-/Sites/default/dw2ed1ea78/images/bannerImages/ValentinesDesktop.jpg",
+      "title": "Xiaomi Mi Electric Scooter",
+      "battery": 5100,
+      "power": 250,
+      "speed": 20,
+      "reserve": 20,
+      "price": 16999
+    }
+  ]
+}
