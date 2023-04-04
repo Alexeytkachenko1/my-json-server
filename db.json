@@ -3,7 +3,7 @@
     {
       "id": 1,
       "photo": "https://content.rozetka.com.ua/goods/images/big/313272821.jpg",
-      "title": "Xiaomi Mi Electric Scooter",
+      "title": "Xiaomi Mi Electric Scooter 3Lite Black",
       "battery": 5100,
       "power": 250,
       "speed": 20,
@@ -12,23 +12,33 @@
     },
     {
       "id": 2,
-      "photo": "https://content.rozetka.com.ua/goods/images/big/313272821.jpg",
-      "title": "Xiaomi Mi Electric Scooter",
-      "battery": 5100,
-      "power": 250,
-      "speed": 20,
+      "photo": "https://content2.rozetka.com.ua/goods/images/big/273477432.jpg",
+      "title": "Xiaomi Mi Electric Scooter 1S Black",
+      "battery": 5200,
+      "power": 300,
+      "speed": 25,
       "reserve": 20,
-      "price": 16999
+      "price": 19999
     },
     {
       "id": 3,
-      "photo": "https://content.rozetka.com.ua/goods/images/big/313272821.jpg",
-      "title": "Xiaomi Mi Electric Scooter",
+      "photo": "https://content.rozetka.com.ua/goods/images/big/266648736.jpg",
+      "title": "Xiaomi Mi Electric Scooter Pro 2 Black",
       "battery": 5100,
       "power": 250,
       "speed": 20,
-      "reserve": 20,
-      "price": 16999
+      "reserve": 30,
+      "price": 17199
+    },
+     {
+      "id": 3,
+      "photo": "https://content2.rozetka.com.ua/goods/images/big/230867906.jpg",
+      "title": "Xiaomi XIAOMI Mi Pro 2 Mercedes-AMG Petronas F1 Team",
+      "battery": 7100,
+      "power": 300,
+      "speed": 25,
+      "reserve": 45,
+      "price": 17199
     }
   ]
 }
